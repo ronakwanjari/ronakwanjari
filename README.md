@@ -1,4 +1,4 @@
-# 👩‍💻 Ronak Wanjari
+# 🧑‍💻 Ronak Wanjari
 
 # 💫 About Me:
 🚀 Engineering student | 💻 Full Stack Enthusiast | 📊 Data Analytics Explorer<br><br>Hi there! I'm Ronak, a passionate engineering student diving deep into the world of Full Stack Development and Data Analytics.  I'm excited to explore new technologies, build innovative projects, and analyze data to drive insights.
